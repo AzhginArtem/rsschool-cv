@@ -1,5 +1,7 @@
 # Artem Azhgin
 
+![My profile](/profile.jpg)
+
 ## Contacts
 
 * +375447469604
